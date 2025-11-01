@@ -20,4 +20,4 @@ can be able to run the program. Whichever ones you choose doesn't matter, as lon
 together. After having the projects boot up, you can set up who goes first and setup a connection! 
 
 ## Final Thoughts
-I know this project might be a little more on the primitive side, but this has got to be one of my favorite programming projects I've made!
+I know this project might be a little more on the primitive side and it's a little old, but this has got to be one of my favorite programming projects I've made!
